@@ -3,7 +3,7 @@ name: Step 0 # Start Exercise
 on:
   push:
     branches:
-      - main #
+      - main
 
 permissions:
   contents: write
